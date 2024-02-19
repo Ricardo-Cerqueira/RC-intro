@@ -7,7 +7,7 @@
 <p align="left">Welcome to my workbench!</p>
 <p> 
 
-As a Junior Quality Assurence, I learned and used various techonolgies. Let me try to sum it up for you, clear and concisive has any QA should be!
+As a Junior Quality Assurance, I learned and used various techonolgies. Let me try to sum it up for you, clear and concisive as any QA should be!
   
   ###
 
@@ -19,10 +19,10 @@ As a Junior Quality Assurence, I learned and used various techonolgies. Let me t
   <img src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" height="30" width="42" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="cucumber logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  /> 
-  <<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" width="42" alt="nodejs logo"  /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" width="42" alt="nodejs logo"  /> 
   <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1692542420998" height="30" width="42" alt="webdriverIO logo"  />
-  < <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30" width="42" alt="Postman logo"  />
-  < <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="30" width="42" alt="jmeter logo"  /> -->
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="30" width="42" alt="Postman logo"  />
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="30" width="42" alt="jmeter logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" width="42" alt="mySQL logo"  />
 </div>
