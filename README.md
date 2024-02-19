@@ -7,7 +7,7 @@
 <p align="left">Welcome to my workbench!</p>
 <p> 
 
-As a Junior Quality Assurance, I learned and used various techonolgies. Let me try to sum it up for you, clear and concisive as any QA should be!
+As a Junior Quality Assurance, I learned and used various technologies. Let me try to sum it up for you, clear and concisive as any QA should be!
   
   ###
 
