@@ -31,8 +31,6 @@ As a Junior Quality Assurance, I learned and used various technologies. Let me t
 
  I have recently completed a requalification program (Postgraduation), SWitCH_QA, with a specialization in Quality Assurance at Instituto Superior de Engenharia do Porto (ISEP), which has provided me with valuable hands-on experience of working in a team on an open-source project, applying agile methodologies (scrum) and utilizing a BDD approach. I started by performing unit tests, progressing to integration (API) tests, acceptance tests and finally regression testing.
 
-Currently, I am available and actively seeking an opportunity to apply, enhance, and deepen my training.
-
 I am a dedicated and hardworking professional who is always eager to take on new challenges and opportunities to grow in my field. I consider myself a team player, fast learner, adaptable, and I have a keen eye to spot existing/possible problems in your project! 
 
 
